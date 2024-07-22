@@ -1,4 +1,4 @@
-<p><img src="https://drive.google.com/drive/folders/11XdKP-1LHeR-Rh8nyKM2KM2ePefqsVFz" width="600" height="300" alt="" /></p>
+<p><img src="ARPU, ARPPU, AOV.png" width="600" height="300" alt="" /></p>
 
 
 <p><strong>E-commerce. Метрики продукта.</strong></p>
